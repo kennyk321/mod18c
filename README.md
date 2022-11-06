@@ -26,15 +26,15 @@
 
 # Dropdown Menu 
 
-
-
+<img width="324" alt="streamlit dropdown" src="https://user-images.githubusercontent.com/95942698/200181574-0a486f53-f16b-4ca4-bf00-ee466c69a8a7.png">
 
 
 # Application
 
 
-
+<img width="819" alt="Pychain application" src="https://user-images.githubusercontent.com/95942698/200181599-ed3ea201-a801-4258-9047-6b8be698267d.png">
 
 
 # Chain Validation 
 
+<img width="1085" alt="pychain ledger" src="https://user-images.githubusercontent.com/95942698/200181656-aaee3658-eecd-453a-9b1c-8e1113f48ea6.png">
